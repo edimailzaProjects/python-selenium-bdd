@@ -13,8 +13,8 @@ Ele possui o padrão Page Object e uns poucos steps que coletei em tutoriais ale
 ### Clone este repositório
 
 ```shell
-git clone git@github.com:edimailzaProjects/python-marshmallow.git
-cd python-marshmallow
+git clone https://github.com/edimailzaProjects/python-selenium-bdd.git
+cd python-selenium-bdd
 ```
 
 ### Rodar esse projeto
